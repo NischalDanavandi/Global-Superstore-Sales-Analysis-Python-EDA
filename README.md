@@ -1,6 +1,6 @@
 # Global Superstore Sales Analysis — Python EDA
 
-An exploratory data analysis of the Global Superstore dataset, using Python and Pandas to clean raw sales data and answer key business questions around sales trends, profitability, product performance, discounting, and shipping behaviour.
+An exploratory data analysis of the Global Superstore dataset(57,809 rows, 24 columns), using Python and Pandas to clean raw sales data and answer key business questions around sales trends, profitability, product performance, discounting, and shipping behaviour.
 
 ---
 
