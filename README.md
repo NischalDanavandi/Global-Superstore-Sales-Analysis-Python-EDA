@@ -52,6 +52,14 @@ Sales grew consistently year-on-year, with **2014 recording the highest sales at
 **Standard Class dominated with 59% of all orders.** Same Day delivery was the least used at 5%.
 > **Recommendation:** The data suggests exploring incentives to shift customers toward faster shipping tiers to improve overall margins.
 
+<img width="790" height="490" alt="1" src="https://github.com/user-attachments/assets/11487c8e-7ee9-4a78-8e7d-57b85bdcc8fd" />
+<img width="954" height="658" alt="2" src="https://github.com/user-attachments/assets/95f9d2d0-943e-478a-bf24-a2dafe69eb1c" />
+<img width="790" height="490" alt="3" src="https://github.com/user-attachments/assets/78bda555-ecbb-40fa-b7d2-a75ae7fb8582" />
+<img width="790" height="490" alt="4" src="https://github.com/user-attachments/assets/d80aa545-740c-4c73-847e-d691d782203f" />
+<img width="989" height="590" alt="5" src="https://github.com/user-attachments/assets/2d112309-9215-4b29-b5b0-cd99868ae849" />
+
+
+
 ## Limitations
 - Dataset covers 2011–2014 only and may not reflect current market behaviour.
 
