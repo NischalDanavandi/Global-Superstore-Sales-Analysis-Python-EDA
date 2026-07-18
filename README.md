@@ -62,4 +62,3 @@ Sales grew consistently year-on-year, with **2014 recording the highest sales at
 
 ## Author
 **Nischal Danavandi**
-[GitHub](https://github.com/NischalDanavandi)
